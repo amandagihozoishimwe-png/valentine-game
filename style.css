@@ -142,13 +142,13 @@ p {
 }
 
 .btn-primary {
-  background: #ff4d6d;
+  background: #d6336c;
   color: white;
-  box-shadow: 0 5px 15px rgba(255, 77, 109, 0.35);
+  box-shadow: 0 5px 15px rgba(214, 55, 108, 0.35);
 }
 
 .btn-primary:hover {
-  background: #e03150;
+  background: #b82558;
   transform: translateY(-2px);
 }
 
